@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Dark Tower 2",
+      "id": 1
+    },
+    {
+      "title": "some book",
+      "id": 2
+    },
+    {
+      "title": "some other book",
+      "id": 3
+    }
+  ]
+}
